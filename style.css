@@ -1,6 +1,20 @@
-# {
-    .countdown {
+body {
+background-color: aqua;
+}
 
-        float: right;
-    }
+
+#countdown {
+
+    color: crimson;
+    
+}
+
+#title {
+    color: crimson;
+}
+
+.container {
+    color: crimson;
+    background-color: darkblue;
+    text-align: center;
 }

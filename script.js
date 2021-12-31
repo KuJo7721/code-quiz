@@ -1,10 +1,10 @@
 $(document).ready(function () {
-    // var minutes = 1, seconds = 59;
+
     var countdownEl = document.getElementById("countdown");
     var seconds = 60;
     var timerInterval;
-    var q1 = "This is question 1";
-    var q2 = "This is question 2";
+    var q1 = "This class is challenging as hell";
+    var q2 = "dropping out is an option";
     $("#start-button").click(function (e) {
         e.preventDefault();
 
